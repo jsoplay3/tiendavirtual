@@ -1,3 +1,3 @@
 # tiendavirtual
 
-# Agregue la tienda de Sebastian Ossa y un archivo de html
+# agregue la tienda jersson y un archivo html
